@@ -1,4 +1,4 @@
-<h4>그룹웨어 GEO 프로젝트</h4>
+<h1>그룹웨어 GEO 프로젝트</h1>
 
 <h3>역할</h3>
 <ul>
@@ -8,3 +8,12 @@
   <li>김동혁 : 일정관리 시스템</li>
   <li>김인혁 : 게시판 시스템</li>
 </ul>
+
+
+사용 기술 : 
+  <ul>
+    <li>Back-end : Java, Spring</li>
+    <li>Front-end : HTML, CSS, JavaScript, JQuery</li>
+    <li>DataBase : Oracle</li>
+    <li>DevOps : Jira, Slack, GitHub</li>
+  </ul>
