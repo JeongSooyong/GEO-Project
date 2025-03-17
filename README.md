@@ -26,7 +26,12 @@
   가장 먼저 학원에서 배웠던 기술들을 최대한 많이 응용해보려고 노렸했고, 기능들을 구현하면서 DB를 어떻게 해야할지. 어떤 방식으로 어떤 스킬을 이용하여 접근해야할지 많은 것을 배울 수 있었던
   첫 프로젝트였다. 
   배웠던 내용들을 전체적으로 응용해보려고 해서 해당 내용들을 다시 복습하며 어떤 방식으로 이용 할 수 있을지 생각해보며 나 자신이 어느정도인지 한번 더 느꼈고 전체적인 내용들을 복습 할 수 있는 계기가 되었다.
-![image](https://github.com/user-attachments/assets/f77aaad9-c823-4553-9bab-3cbfa7eacc39)
+
+
+<br>
+<br>
+![alt ERD](https://github.com/user-attachments/assets/374d6f3d-eec0-4ef2-aaf6-5085a83b7)
+
 
 
   
