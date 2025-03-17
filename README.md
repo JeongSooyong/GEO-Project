@@ -9,8 +9,10 @@
   <li>김인혁 : 게시판 시스템</li>
 </ul>
 
+<br>
 
-사용 기술 : 
+
+<h3>사용 기술</h3> 
   <ul>
     <li>Back-end : Java, Spring</li>
     <li>Front-end : HTML, CSS, JavaScript, JQuery</li>
