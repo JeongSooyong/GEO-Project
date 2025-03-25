@@ -35,6 +35,12 @@
 ![image](https://github.com/user-attachments/assets/6798df33-47fd-4ca0-b7a7-46366123f4fe)
 
 
+<h3>담당 기능</h3>
+ <ul>
+   <li>CRUD를 이용한 사원 조회, 추가, 업데이트, 삭제</li>
+   <li>Ajax비동기를 이용한 출근/퇴근 기록</li>
+   <li>Spring 스케줄러를 이용하여 일정 시간마다 DB의 근태에 NULL 값을 부여하고 출근/퇴근 버튼 클릭시 해당 값을 업데이트</li>   
+ </ul>
 
 
   
