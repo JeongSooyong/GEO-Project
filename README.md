@@ -64,7 +64,7 @@
 <h3>내가 구현했던 화면 및 기능</h3>
 <br>
 <br>
-GeoProject/src/main/webapp/img/KakaoTalk_20250326_193607960.png
+![image](GeoProject/src/main/webapp/img/KakaoTalk_20250326_193607960.png)
 
 
 
