@@ -109,9 +109,38 @@
 <br>
 사원을 추가하는 화면
 <br>
-관리자만 사원을 추가 할 수 있도록 했고, 주소입력은 카카오 주소검색 API를 사용했다.
+INSERT로 사원을 추가 할 수 있도록 했고, 주소입력은 카카오 주소검색 API를 사용했다.
 <br>
 사번, 연락처, 이메일은 정규화 표현식 사용하여 표현식에 부합하면 alert으로 경고창 표시
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/584b35fe-5045-4a20-98e7-d3ce0aef6f84)
+<br>
+![image](https://github.com/user-attachments/assets/48c0214a-34aa-4c7d-a444-af8a400f4866)
+<br>
+SELECT로 사원을 전체조회하는 화면과 상세조회하는 화면
+<br>
+데이터테이블스 API 사용
+<br>
+![image](https://github.com/user-attachments/assets/74ca454f-aec2-4f01-8d92-7de0ba252a38)
+<br>
+정보 수정 탭에서 개인정보를 수정하는 UPDATE
+<br>
+![image](https://github.com/user-attachments/assets/e512932e-bf15-4c23-b4fe-72c0e35fcc2b)
+<br>
+개인 정보 조회에서 SELECT로 근태를 조회하는 화면
 
 
 
