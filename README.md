@@ -69,6 +69,23 @@
 
 ![image](https://github.com/user-attachments/assets/7375867b-5cd9-40fc-afef-fa381f3ca74c)
 
+로그인에 성공했을시 보이는 화면
+<br>
+출근, 퇴근 버튼을 UPDATE로 처리했다.
+<br>
+버튼 클릭시 화면 Ajax요청이 서버로 전송되고 화면이 새로고침 없이 처리된다.
+<br> 구글 API를 사용하여 월간 근태 현황을 표현하였다.
+
+<br>
+<br>
+<br>
+
+
+
+![image](https://github.com/user-attachments/assets/065c69e6-356c-4390-ba39-7ff493aa0ba4)
+사원을 추가하는 화면
+
+
 
 
   
