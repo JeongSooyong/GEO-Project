@@ -89,8 +89,12 @@
 
 
 ![image](https://github.com/user-attachments/assets/065c69e6-356c-4390-ba39-7ff493aa0ba4)
+<br>
 사원을 추가하는 화면
-
+<br>
+관리자만 사원을 추가 할 수 있도록 했고, 주소입력은 카카오 주소검색 API를 사용했다.
+<br>
+사번, 연락처, 이메일은 정규화 표현식 사용하여 표현식에 부합하면 alert으로 경고창 표시
 
 
 
