@@ -62,6 +62,8 @@
 
 
 <h3>내가 구현했던 화면 및 기능</h3>
+![image](https://github.com/user-attachments/assets/366c43ef-3247-4d2f-8105-3d15bd7630bc)
+
 
 
   
