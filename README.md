@@ -62,7 +62,7 @@
 
 
 <h3>내가 구현했던 화면 및 기능</h3>
-[![image](https://github.com/user-attachments/assets/366c43ef-3247-4d2f-8105-3d15bd7630bc)](https://github.com/JeongSooyong/GEO-Project/issues/1#issue-2949124070)
+![Image](https://github.com/user-attachments/assets/a403363a-d759-4962-b2c9-1eabe2622a04)
 
 
 
