@@ -64,7 +64,7 @@
 <h3>내가 구현했던 화면 및 기능</h3>
 <br>
 <br>
-![KakaoTalk_20250326_193607960](https://github.com/user-attachments/assets/bcff0878-abdd-412c-ac1c-4a9fcf792456)
+![image](https://github.com/user-attachments/assets/bcff0878-abdd-412c-ac1c-4a9fcf792456)
 
 
 
