@@ -64,7 +64,8 @@
 <h3>내가 구현했던 화면 및 기능</h3>
 <br>
 <br>
-![image](GeoProject/src/main/webapp/img/KakaoTalk_20250326_193607960.png)
+![image](https://github.com/user-attachments/assets/5a66470b-0cfe-496b-83bb-b69fe4b77bd1)
+
 
 
 
